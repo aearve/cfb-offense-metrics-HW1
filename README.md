@@ -22,7 +22,7 @@ I also reported **R²**, which is just an easier way to read the same result. If
 
 So in conclusion to find the best metrics **the higher the r (and R²), the more a metric reflects real, repeatable team quality rather than luck.** This in my opinion makes the best metrics.
 
-For each of the 9 candidate metrics, I calculated this across all 335 team-seasons (67 P4 teams × 5 seasons, 2021–2025):
+For each of the 9  metrics, I calculated this across all 335 team-seasons (67 P4 teams × 5 seasons, 2021–2025):
 
 | Metric | r (1st half → 2nd half) | R² (% explained) |
 |---|---|---|
