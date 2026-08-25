@@ -18,7 +18,7 @@ So to measure this, I used a statistic called **Pearson correlation**, written a
 - **r close to 1** means strong relationship — a team that's high in the first half is almost always high in the second half too.
 - **r close to 0** means basically no relationship — knowing a team's first-half number tells you nothing useful about their second-half number.
 
-I also reported **R²**, which is just an easier way to read the same result. If all you knew about a team was their first-half number, and you used it to guess their second-half number, R² tells you roughly how much of that guess you'd get right. An R² of 37% means knowing a team's first half gets you about a third of the way to knowing their second half — the rest is randomness or other factors the first half can't tell you.
+I also reported **R²**, which is just an easier way to read the same result. If all you knew about a team was their first-half number, and you used it to guess their second-half number, R² tells you roughly how much of that guess you'd get right. An R² of 37% means knowing a team's first half gets you about a third of the way to knowing their second half.
 
 So in conclusion to find the best metrics **the higher the r (and R²), the more a metric reflects real, repeatable team quality rather than luck.** This in my opinion makes the best metrics.
 
